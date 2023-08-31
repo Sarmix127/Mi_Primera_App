@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">My Application wilson</string>
+    <string name="mensaje_txt">Welcome</string>
+    <string name="desc_img">Dog image</string>
+</resources>
